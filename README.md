@@ -8,5 +8,4 @@ Team members :
 
 {Leader- Rudra Sharma
 Technical head- Nitya Jain
-Prompt engineer- Piyush Tatawat
-}
+Prompt engineer- Piyush Tatawat}
