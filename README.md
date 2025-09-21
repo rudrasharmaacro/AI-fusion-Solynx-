@@ -6,6 +6,6 @@ https://g.co/gemini/share/c7dc2e2b3461
 
 Team members :
 
-{Leader- Rudra Sharma
-Technical head- Nitya Jain
+{Leader- Rudra Sharma /
+Technical head- Nitya Jain /
 Prompt engineer- Piyush Tatawat}
